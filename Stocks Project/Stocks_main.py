@@ -157,7 +157,7 @@ while go == "y":
         fiftytwoweekhigandlow_list.append(week_hl)
 
     datadict1 = {'Names': names_list, 'Price': price_list, 'P/E ratio': PE_list, 'PEG ratio': PEG_list,
-                 'Market Cap (B)': marketcap_list, 'Analists Review': analisis_list,
+                 'Market Cap (B)': marketcap_list, 'Analysts Review': analisis_list,
                  '52-Week Range': fiftytwoweekhigandlow_list, 'Sector': sector_list} # 8 columns
 
     df1 = pd.DataFrame(data=datadict1)
