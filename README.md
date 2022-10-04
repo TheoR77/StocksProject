@@ -1,4 +1,4 @@
-## StocksProject
+## Stocks Project 💰
 ### What does this program do?
 The “Stocks_main” python file creates a dataframe with a given number of stocks and
 optionally saves this dataframe as an excel and a csv file. All of the stocks names and
