@@ -14,7 +14,7 @@ mean.
 ///
 
 ### O que este programa faz?
-O arquivo python “Stocks_main” cria um dataframe com um determinado número de ações e,
+O arquivo python “Stocks_main” cria um dataframe com um determinado número de ações e
 opcionalmente, salva esse dataframe em arquivos excel e csv. Todos os nomes e os atributos
 dessas ações são gerados aleatoriamente. O arquivo python “Stocks_filter” obtém o arquivo
 csv de ações aleatórias para filtrar apenas boas empresas - se houverem - que valem um
